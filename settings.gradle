@@ -1,4 +1,4 @@
 rootProject.name = 'gradleMultiModule'
 include 'core'
-
+include 'kts'
 
